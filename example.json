@@ -1,38 +1,39 @@
-[
-  {
-    "title": "The Legend of Zelda: Breath of the Wild",
-    "platform": "Nintendo Switch",
-    "genre": "Action-Adventure",
-    "image": "https://files.cults3d.com/uploaders/13479126/illustration-file/f6e9fc58-ce77-47d9-90a4-a6492e587a39/Poster_Zelda_BotW.jpg"
-  },
-  {
-    "title": "Red Dead Redemption 2",
-    "platform": "PlayStation 4",
-    "genre": "Action-Adventure",
-    "image": "https://media.rockstargames.com/rockstargames-newsite/uploads/3bb5ec6b87e7a6e8a83a329560cc46d2ff5cc664.jpg"
-  },
-  {
-    "title": "Minecraft",
-    "platform": "Multiplatform",
-    "genre": "Sandbox",
-    "image": "https://i0.wp.com/www.techarp.com/wp-content/uploads/2020/12/Minecraft-freebies.jpg?fit=624%2C312&ssl=1"
-  },
-  {
-    "title": "The Witcher 3: Wild Hunt",
-    "platform": "Multiplatform",
-    "genre": "RPG",
-    "image": "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2022/11/Witcher_3_Next_Gen_RGB_flattened-193259cb2b197bdb1ca2.jpg"
-  },
-  {
-    "title": "Fortnite",
-    "platform": "Multiplatform",
-    "genre": "Battle Royale",
-    "image": "https://i.insider.com/5b479d8c744a9820008b48ff?width=700"
-  },
-  {
-    "title": "Overwatch",
-    "platform": "Multiplatform",
-    "genre": "First-Person Shooter",
-    "image": "https://i.ytimg.com/vi/4AZmiqUs-xw/maxresdefault.jpg"
-  }
+{ 'allgames' [
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "platform": "Nintendo Switch",
+      "genre": "Action-Adventure",
+      "image": "https://files.cults3d.com/uploaders/13479126/illustration-file/f6e9fc58-ce77-47d9-90a4-a6492e587a39/Poster_Zelda_BotW.jpg"
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "platform": "PlayStation 4",
+      "genre": "Action-Adventure",
+      "image": "https://media.rockstargames.com/rockstargames-newsite/uploads/3bb5ec6b87e7a6e8a83a329560cc46d2ff5cc664.jpg"
+    },
+    {
+      "title": "Minecraft",
+      "platform": "Multiplatform",
+      "genre": "Sandbox",
+      "image": "https://i0.wp.com/www.techarp.com/wp-content/uploads/2020/12/Minecraft-freebies.jpg?fit=624%2C312&ssl=1"
+    },
+    { 
+      "title": "The Witcher 3: Wild Hunt",
+      "platform": "Multiplatform",
+      "genre": "RPG",
+      "image": "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2022/11/Witcher_3_Next_Gen_RGB_flattened-193259cb2b197bdb1ca2.jpg"
+    },
+    {
+      "title": "Fortnite",
+      "platform": "Multiplatform",
+      "genre": "Battle Royale",
+      "image": "https://i.insider.com/5b479d8c744a9820008b48ff?width=700"
+    },
+    {
+      "title": "Overwatch",
+      "platform": "Multiplatform",
+      "genre": "First-Person Shooter",
+      "image": "https://i.ytimg.com/vi/4AZmiqUs-xw/maxresdefault.jpg"
+    }
 ]
+}
