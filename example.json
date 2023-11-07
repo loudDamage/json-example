@@ -1,4 +1,5 @@
-{ "allgames" [
+{
+  "allgames": [
     {
       "title": "The Legend of Zelda: Breath of the Wild",
       "platform": "Nintendo Switch",
@@ -17,7 +18,7 @@
       "genre": "Sandbox",
       "image": "https://i0.wp.com/www.techarp.com/wp-content/uploads/2020/12/Minecraft-freebies.jpg?fit=624%2C312&ssl=1"
     },
-    { 
+    {
       "title": "The Witcher 3: Wild Hunt",
       "platform": "Multiplatform",
       "genre": "RPG",
@@ -35,5 +36,5 @@
       "genre": "First-Person Shooter",
       "image": "https://i.ytimg.com/vi/4AZmiqUs-xw/maxresdefault.jpg"
     }
-    ]
+  ]
 }
